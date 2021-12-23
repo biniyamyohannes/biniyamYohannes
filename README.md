@@ -1,5 +1,13 @@
 ### Hi there. I'm Biniyam 👋
 
+- I am a Computer Science student at the University of Colorado Denver
+- I love programming, math, and soccer
+- You can connect with me on:
+  - [LinkedIn](https://www.linkedin.com/in/biniyamyohannes/)
+
+
+[![Biniyam's github stats](https://github-readme-stats.vercel.app/api?username=biniyamYohannes&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
