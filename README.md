@@ -1,4 +1,4 @@
-### 👋 Hi there. I'm Biniyam
+### 👋 Hi there. I'm Biniyam.
 
 - I am a Computer Science student at the University of Colorado Denver
 - I love programming, math, and soccer
