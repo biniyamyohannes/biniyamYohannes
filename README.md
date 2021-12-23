@@ -3,7 +3,8 @@
 - I am a Computer Science student at the University of Colorado Denver
 - I love programming, math, and soccer
 - You can connect with me on:
-  - [LinkedIn](https://www.linkedin.com/in/biniyamyohannes/)
+  - ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+  <!---- [LinkedIn](https://www.linkedin.com/in/biniyamyohannes/)--->
 
 
 [![Biniyam's github stats](https://github-readme-stats.vercel.app/api?username=biniyamYohannes&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
