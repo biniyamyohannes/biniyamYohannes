@@ -1,6 +1,8 @@
 ### 👋 Hi there. I'm Biniyam.
 
-- I am a Computer Science student at the University of Colorado Denver
+- I work as a Data Engineer
+- I am an (O)MSCS student at Georgia Tech 
+- I have a bachelor's degree in Computer Science from the University of Colorado Denver
 - I love programming, math, and soccer
 - You can connect with me on:
   - [LinkedIn](https://www.linkedin.com/in/biniyamyohannes/)
