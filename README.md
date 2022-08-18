@@ -5,7 +5,7 @@
 - I have a bachelor's degree in Computer Science from the University of Colorado Denver
 - I love programming, math, and soccer
 - You can connect with me on:
-  - [LinkedIn](https://www.linkedin.com/in/biniyamyohannes/)
+  - <a href="https://www.linkedin.com/in/biniyamyohannes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 [![Biniyam's github stats](https://github-readme-stats.vercel.app/api?username=biniyamYohannes&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
