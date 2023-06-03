@@ -3,8 +3,7 @@
 - I work as a Data Engineer
 - I am an OMSCS student at Georgia Tech 
 - I have a bachelor's degree in Computer Science from the University of Colorado Denver
-- You can connect with me on:
-  - <a href="https://www.linkedin.com/in/biniyamyohannes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- You can connect with me on <a href="https://www.linkedin.com/in/biniyamyohannes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 [![Biniyam's github stats](https://github-readme-stats.vercel.app/api?username=biniyamYohannes&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
