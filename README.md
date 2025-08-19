@@ -1,3 +1,4 @@
+👋 About Me
 - ML Engineer
 - OMSCS student (Computing Systems specialization) @ Georgia Tech
 - B.A. in Computer Science, University of Colorado Denver
