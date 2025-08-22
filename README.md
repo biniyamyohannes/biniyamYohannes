@@ -21,6 +21,18 @@ MLOps & CI/CD:
 ![ClearML](https://img.shields.io/badge/ClearML-white?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+<!-- Prometheus -->
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
+
+<!-- Grafana -->
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
+
+<!-- Feast (no official logo in Shields.io) -->
+![Feast](https://img.shields.io/badge/Feast-Feature%20Store-blue?style=for-the-badge)
+
+<!-- Tecton (no official logo in Shields.io) -->
+![Tecton](https://img.shields.io/badge/Tecton-Feature%20Platform-darkgreen?style=for-the-badge)
+
 
 Cloud & Infrastructure:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
